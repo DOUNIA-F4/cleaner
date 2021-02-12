@@ -1,0 +1,27 @@
+ <section class="functionalities">
+            <div id="myProgress">
+                    <div id="icon" class="success-checkmark">
+                            <div class="check-icon">
+                              <span class="icon-line line-tip"></span>
+                              <span class="icon-line line-long"></span>
+                              <div class="icon-circle"></div>
+                              <div class="icon-fix"></div>
+                            </div>
+                          
+                          </div>
+                <h3 id='txt'>Cheking temporary files...</h3>
+                <div id="myBar"></div>
+            </div>
+            <button id="btn" onclick="deleted()">
+                <div>
+                    <i class="fa fa-trash" aria-hidden="true"></i>
+                    nettoyer
+                </div>
+            </button>
+            <button href="" id="btn2" onclick="home()">
+                <div>
+                    <i class="fa fa-undo" aria-hidden="true"></i>
+                    <span>retour</span>
+                </div>
+            </button>
+        </section>

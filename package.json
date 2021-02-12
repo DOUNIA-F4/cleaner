@@ -1,0 +1,26 @@
+{
+  "name": "pc-cleaner",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "name",
+  "license": "ISC",
+  "keywords": [],
+  "devDependencies": {
+    "electron": "^11.2.2"
+  },
+  "dependencies": {
+    "get-folder-size": "^2.0.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DOUNIA-F4/PC_CLEANER.git"
+  },
+  "bugs": {
+    "url": "https://github.com/DOUNIA-F4/PC_CLEANER/issues"
+  },
+  "homepage": "https://github.com/DOUNIA-F4/PC_CLEANER#readme",
+  "description": ""
+}
